@@ -22,7 +22,8 @@ This page will have all of our IBM resources listed here.
 # Main Challenge
 * The Code and Response Codeathon calls on students to create practical, effective, and high-quality designs and applications based on cloud, data, and artificial intelligence, that can have an immediate and lasting impact on humanitarian issues. We challenge you to develop a solution that will support Natural Disaster Response and/or Mitigation. Additional details of the Code and Response Challenges are available at the following https://developer.ibm.com/code-and-response/
 
-# Join our Slack channel (coming soon)
+# Join our Slack channel
+* https://callforcode.org/slack - #hackrpi2019
 
 # IBM Cloud Catalog
 * https://cloud.ibm.com/catalog
