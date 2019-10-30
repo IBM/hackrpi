@@ -12,7 +12,7 @@
 * https://ibm.biz/BdzKu8
 
 # Step 2 - Join our Slack channel
-* https://callforcode.org/slack - #hackrpi2019
+* https://tinyurl.com/y64ar9ch - #ibm-cgiu-challenge
 
 # Step 3 - Compete in our Main Challenge
 * The Code and Response Codeathon calls on students to create practical, effective, and high-quality designs and applications based on cloud, data, and artificial intelligence, that can have an immediate and lasting impact on humanitarian issues. We challenge you to develop a solution that will support Natural Disaster Response and/or Mitigation. Additional details of the Code and Response Challenges are available at the following https://developer.ibm.com/code-and-response/
