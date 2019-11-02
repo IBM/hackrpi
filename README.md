@@ -48,7 +48,10 @@
 ## Code Patterns
 * https://developer.ibm.com/patterns/
 
+ **Check out [this curated list](https://github.com/pmmistry/hackrpi/blob/master/CodePatterns.md)** 
+
 ## More Info
+
 * Call For Code - https://developer.ibm.com/callforcode/
 * Code and Response - https://developer.ibm.com/code-and-response/
 * CGIU Initiative - https://www.clintonfoundation.org/clinton-global-initiative/meetings/cgi-university
