@@ -48,11 +48,8 @@
 ## Code Patterns
 * https://developer.ibm.com/patterns/
 
+ **Check out [this curated list](https://github.com/pmmistry/hackrpi/blob/master/CodePatterns.md)** 
 
- Check out [this curated list](https://github.com/pmmistry/hackrpi/blob/master/CodePatterns.md) 
-
-# More Info
-=======
 ## More Info
 
 * Call For Code - https://developer.ibm.com/callforcode/
